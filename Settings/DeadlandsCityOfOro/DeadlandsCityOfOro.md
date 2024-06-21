@@ -11,19 +11,19 @@ Oro City is currently a small town about four days travel west south west of Den
 
 ### Faces
 
-* [Deputy Alvan Callaghan](Faces/Deputy.Alvan.Callaghan.md)
-* [Deputy Jacob Stevenson](Faces/Deputy.Jacob.Stevenson.md)
+* [Augusta Tabor](Faces/Augusta.Tabor.md)
 * [Edward Browne](Faces/Edward.Browne.md)
 * [Elizabeth McCourt](Faces/Elizabeth.McCourt.md)
 * [Horace Tabor](Faces/Horace.Tabor.md)
 * [John J Hoover](Faces/John.J.Hoover.md)
 * [Marshal Saul Cornell](Faces/Marshal.Saul.Cornell.md)
 * [Meyer Guggenheim](Faces/Meyer.Guggenheim.md)
+* [Percival Apel](Faces/Percival.Apel.md)
+* [Reverend Smith](Faces/Reverend.Smith.md)
 * [Robert Redding](Faces/Robert.Redding.md)
 * [William Nye](Faces/William.Nye.md)
-* [Reverend Smith](Faces/Reverend.Smith.md)
-* [Attie Gordon](Faces/Attie.Gordon.md)
 
+### [Residents](Residents/Residents.md)
 ### Locations
 
 * [Arcade Saloon](Locations/Arcade.Saloon.md)
@@ -36,6 +36,7 @@ Oro City is currently a small town about four days travel west south west of Den
 * [John J Hoover](Threats/John.J.Hoover.md)
 * [Marshal Saul Cornell](Threats/Marshal.Saul.Cornell.md)
 * [Robert Redding](Threats/Robert.Redding.md)
+* [Possessing Spirits](Threats/Possessing_spirits.md)
 
 ### Map of Oro City
 
